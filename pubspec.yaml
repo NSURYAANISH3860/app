@@ -1,0 +1,20 @@
+name: final_todo_app
+description: Final assignment - ToDo app with Provider & persistence
+publish_to: "none"
+
+environment:
+  sdk: ">=2.18.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  provider: ^6.0.5
+  shared_preferences: ^2.1.1
+  uuid: ^3.0.7
+  google_fonts: ^5.0.0
+  flutter_slidable: ^2.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
